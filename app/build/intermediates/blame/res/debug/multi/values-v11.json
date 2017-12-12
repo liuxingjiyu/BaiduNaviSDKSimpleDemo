@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "C:\\Users\\taxi01\\Desktop\\BaiduNaviSDKSimpleDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\taxi01\\Desktop\\BaiduNaviSDKSimpleDemo\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 179,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 313
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\taxi01\\Desktop\\BaiduLBS_AndroidSDK_Sample (1)\\BaiduLBS_AndroidSDK_Sample\\BaiduNaviSDKSimpleDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\taxi01\\Desktop\\BaiduLBS_AndroidSDK_Sample (1)\\BaiduLBS_AndroidSDK_Sample\\BaiduNaviSDKSimpleDemo\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 179,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 313
+                    }
+                }
+            }
+        ]
+    }
+]

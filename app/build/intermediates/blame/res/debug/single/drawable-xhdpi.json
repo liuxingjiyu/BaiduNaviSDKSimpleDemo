@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\taxi01\\Desktop\\BaiduNaviSDKSimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\taxi01\\Desktop\\BaiduNaviSDKSimpleDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\taxi01\\Desktop\\BaiduLBS_AndroidSDK_Sample (1)\\BaiduLBS_AndroidSDK_Sample\\BaiduNaviSDKSimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\taxi01\\Desktop\\BaiduLBS_AndroidSDK_Sample (1)\\BaiduLBS_AndroidSDK_Sample\\BaiduNaviSDKSimpleDemo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\taxi01\\Desktop\\BaiduNaviSDKSimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\navi_guide_turn.png",
+        "source": "C:\\Users\\taxi01\\Desktop\\BaiduNaviSDKSimpleDemo\\app\\src\\main\\res\\drawable-xhdpi\\navi_guide_turn.png"
+    },
+    {
+        "merged": "C:\\Users\\taxi01\\Desktop\\BaiduLBS_AndroidSDK_Sample (1)\\BaiduLBS_AndroidSDK_Sample\\BaiduNaviSDKSimpleDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\navi_guide_turn.png",
+        "source": "C:\\Users\\taxi01\\Desktop\\BaiduLBS_AndroidSDK_Sample (1)\\BaiduLBS_AndroidSDK_Sample\\BaiduNaviSDKSimpleDemo\\app\\src\\main\\res\\drawable-xhdpi\\navi_guide_turn.png"
+    }
+]

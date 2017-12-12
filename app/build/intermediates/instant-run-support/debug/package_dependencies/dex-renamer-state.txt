@@ -1,0 +1,13 @@
+#Tue Dec 12 15:18:00 CST 2017
+renamed.3=classes3.dex
+renamed.2=classes4.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=C\:\\Users\\taxi01\\Desktop\\BaiduLBS_AndroidSDK_Sample (1)\\BaiduLBS_AndroidSDK_Sample\\BaiduNaviSDKSimpleDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\httpmime-4.1.2_4fc074b53aecd2fb86ebcf466cba40064fd9c679
+base.2=C\:\\Users\\taxi01\\Desktop\\BaiduLBS_AndroidSDK_Sample (1)\\BaiduLBS_AndroidSDK_Sample\\BaiduNaviSDKSimpleDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\lbsCoreSDK_9935abebfebbb0c0c5f78e33ebdb6a9de3b3c40f
+base.1=C\:\\Users\\taxi01\\Desktop\\BaiduLBS_AndroidSDK_Sample (1)\\BaiduLBS_AndroidSDK_Sample\\BaiduNaviSDKSimpleDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\galaxy_lite_lbs_v2.0_21a912f9448ea53cd52fea82d42028531e980972
+base.0=C\:\\Users\\taxi01\\Desktop\\BaiduLBS_AndroidSDK_Sample (1)\\BaiduLBS_AndroidSDK_Sample\\BaiduNaviSDKSimpleDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\BaiduNaviSDK_3.3.1_159128246d50c920e88a62be47203a3dd24ba1c7
+file.3=C\:\\Users\\taxi01\\Desktop\\BaiduLBS_AndroidSDK_Sample (1)\\BaiduLBS_AndroidSDK_Sample\\BaiduNaviSDKSimpleDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\httpmime-4.1.2_4fc074b53aecd2fb86ebcf466cba40064fd9c679\\classes.dex
+file.2=C\:\\Users\\taxi01\\Desktop\\BaiduLBS_AndroidSDK_Sample (1)\\BaiduLBS_AndroidSDK_Sample\\BaiduNaviSDKSimpleDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\lbsCoreSDK_9935abebfebbb0c0c5f78e33ebdb6a9de3b3c40f\\classes.dex
+file.1=C\:\\Users\\taxi01\\Desktop\\BaiduLBS_AndroidSDK_Sample (1)\\BaiduLBS_AndroidSDK_Sample\\BaiduNaviSDKSimpleDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\galaxy_lite_lbs_v2.0_21a912f9448ea53cd52fea82d42028531e980972\\classes.dex
+file.0=C\:\\Users\\taxi01\\Desktop\\BaiduLBS_AndroidSDK_Sample (1)\\BaiduLBS_AndroidSDK_Sample\\BaiduNaviSDKSimpleDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\BaiduNaviSDK_3.3.1_159128246d50c920e88a62be47203a3dd24ba1c7\\classes.dex

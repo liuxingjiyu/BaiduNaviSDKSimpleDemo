@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\taxi01\Desktop\BaiduLBS_AndroidSDK_Sample (1)\BaiduLBS_AndroidSDK_Sample\BaiduNaviSDKSimpleDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="846cd2b261ce296db66f175101c84810bb51a878">
+        <dex dex="C:\Users\taxi01\Desktop\BaiduLBS_AndroidSDK_Sample (1)\BaiduLBS_AndroidSDK_Sample\BaiduNaviSDKSimpleDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d045420a021554ade1e0d914974b8b17be18f289\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taxi01\Desktop\BaiduLBS_AndroidSDK_Sample (1)\BaiduLBS_AndroidSDK_Sample\BaiduNaviSDKSimpleDemo\app\libs\BaiduNaviSDK_3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="537866e20631bd6c5dad4a3d5cf6d889116efcc1">
+        <dex dex="C:\Users\taxi01\Desktop\BaiduLBS_AndroidSDK_Sample (1)\BaiduLBS_AndroidSDK_Sample\BaiduNaviSDKSimpleDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduNaviSDK_3.3.1_159128246d50c920e88a62be47203a3dd24ba1c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taxi01\Desktop\BaiduLBS_AndroidSDK_Sample (1)\BaiduLBS_AndroidSDK_Sample\BaiduNaviSDKSimpleDemo\app\libs\httpmime-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="C:\Users\taxi01\Desktop\BaiduLBS_AndroidSDK_Sample (1)\BaiduLBS_AndroidSDK_Sample\BaiduNaviSDKSimpleDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.1.2_4fc074b53aecd2fb86ebcf466cba40064fd9c679\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taxi01\Desktop\BaiduLBS_AndroidSDK_Sample (1)\BaiduLBS_AndroidSDK_Sample\BaiduNaviSDKSimpleDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\taxi01\Desktop\BaiduLBS_AndroidSDK_Sample (1)\BaiduLBS_AndroidSDK_Sample\BaiduNaviSDKSimpleDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b68c5dd0c58331f696e89d2a54e1ca9207d8fcab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taxi01\Desktop\BaiduLBS_AndroidSDK_Sample (1)\BaiduLBS_AndroidSDK_Sample\BaiduNaviSDKSimpleDemo\app\libs\lbsCoreSDK.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="64ca7b800b3c48c3f0a919f21312dafa98a2b509">
+        <dex dex="C:\Users\taxi01\Desktop\BaiduLBS_AndroidSDK_Sample (1)\BaiduLBS_AndroidSDK_Sample\BaiduNaviSDKSimpleDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\lbsCoreSDK_9935abebfebbb0c0c5f78e33ebdb6a9de3b3c40f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taxi01\Desktop\BaiduLBS_AndroidSDK_Sample (1)\BaiduLBS_AndroidSDK_Sample\BaiduNaviSDKSimpleDemo\app\libs\galaxy_lite_lbs_v2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="13ba80b3eedaa1226d0281938e90e07ff8e94d02">
+        <dex dex="C:\Users\taxi01\Desktop\BaiduLBS_AndroidSDK_Sample (1)\BaiduLBS_AndroidSDK_Sample\BaiduNaviSDKSimpleDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\galaxy_lite_lbs_v2.0_21a912f9448ea53cd52fea82d42028531e980972\classes.dex" />
+    </item>
+
+</items>
